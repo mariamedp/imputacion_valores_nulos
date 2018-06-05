@@ -1,4 +1,4 @@
-estacion,zona,timestamp,NO2,O3,PM10,PM2.5
+estacion,zona,timestamp,NO2,O3,PM10,PM25
 Arturo Soria,3,2017-09-30 23:00:00,41,42,NA,NA
 Arturo Soria,3,2017-10-01 00:00:00,13,59,NA,NA
 Arturo Soria,3,2017-10-01 01:00:00,7,65,NA,NA
